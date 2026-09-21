@@ -2,6 +2,8 @@
 
 Seven app and toolkit projects showing applied learning technology, responsible AI, AI governance, cybersecurity, experiential design, narrative strategy, and controlled R&D.
 
+The application source repositories are currently private. This public portfolio documents the products, live experiences, design logic, toolkit connections, and evidence of work without exposing private application code.
+
 ## Case study frame
 
 Each case study uses the same structure:
@@ -10,7 +12,7 @@ Each case study uses the same structure:
 - **Design:** how the experience creates decisions, feedback, reflection, or controls.
 - **What was built:** the app, toolkit, training asset, or operating framework.
 - **Value:** why the product matters to users or organizations.
-- **Evidence:** the visible proof of work, including live products, repositories, packaged resources, or operating controls.
+- **Evidence:** the visible proof of work, including live products, packaged resources, or operating controls.
 
 ---
 
@@ -18,7 +20,7 @@ Each case study uses the same structure:
 
 **Domain:** Responsible AI  
 **Live app:** https://wisecheck.ltecwithlance.com/  
-**Repository:** https://github.com/TheWhiz13/should-i-ai-this  
+**Source repository:** Private  
 **Toolkit:** Responsible AI Toolkit for College Faculty
 
 ### Problem
@@ -42,7 +44,7 @@ A public companion app paired with editable toolkit materials for syllabus langu
 
 **Domain:** AI governance  
 **Live app:** https://governance.ltecwithlance.com/  
-**Repository:** https://github.com/TheWhiz13/ai-governance-check  
+**Source repository:** Private  
 **Toolkit:** Practical AI Governance Toolkit
 
 ### Problem
@@ -66,7 +68,7 @@ The app connects to the **Know • Own • Assess • Control • Monitor** gove
 
 **Domain:** Cybersecurity  
 **Live app:** https://cyber.ltecwithlance.com/  
-**Repository:** https://github.com/TheWhiz13/cybersecurity-situational-awareness  
+**Source repository:** Private  
 **Toolkit:** Cybersecurity Situational Awareness Toolkit v2.0
 
 ### Problem
@@ -90,8 +92,8 @@ A public learning platform paired with implementation resources for training del
 
 **Domain:** Cybersecurity  
 **Live app:** https://detect.ltecwithlance.com/  
-**Repository:** https://github.com/TheWhiz13/cybersense-ready-now  
-**Toolkit connection:** companion reinforcement for the Cybersecurity Situational Awareness Toolkit v2.0
+**Source repository:** Private  
+**Toolkit connection:** Companion reinforcement for the Cybersecurity Situational Awareness Toolkit v2.0
 
 ### Problem
 Users need short, repeatable practice for recognizing manipulation and knowing what to do when they may already have clicked, shared, paid, or exposed information.
@@ -114,7 +116,7 @@ A public companion product linked to the same cybersecurity implementation toolk
 
 **Domain:** Experiential learning  
 **Live app:** https://mission20.ltecwithlance.com/  
-**Repository:** https://github.com/TheWhiz13/Mission-20  
+**Source repository:** Private  
 **Toolkit:** Mission 20 Financial Decision-Making Toolkit
 
 ### Problem
@@ -138,7 +140,7 @@ A public app plus a facilitator toolkit with challenge archetypes, educational m
 
 **Domain:** Narrative strategy  
 **Live app:** https://archive.ltecwithlance.com/  
-**Repository:** https://github.com/TheWhiz13/the-last-archive  
+**Source repository:** Private  
 **Product type:** Standalone experiential product
 
 ### Problem
@@ -161,7 +163,7 @@ A public interactive experience with a complete narrative loop. No packaged tool
 ## LTEC Venture Scientist
 
 **Domain:** Venture R&D  
-**Repository:** https://github.com/TheWhiz13/LTEC-Venture-Scientist  
+**Source repository:** Private  
 **Product type:** Controlled internal research platform
 
 ### Problem
