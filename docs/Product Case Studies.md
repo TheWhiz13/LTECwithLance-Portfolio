@@ -21,7 +21,7 @@ Each case study uses the same structure:
 **Domain:** Responsible AI  
 **Live app:** https://wisecheck.ltecwithlance.com/  
 **Source repository:** Private  
-**Toolkit:** Responsible AI Toolkit for College Faculty
+**Toolkit:** [Responsible AI Toolkit for College Faculty](https://ltecwithlance.gumroad.com/l/responsible-ai-toolkit)
 
 ### Problem
 Faculty, staff, and small teams often need a fast way to decide whether generative AI is appropriate for a specific task, especially when privacy, accuracy, attribution, and accountability are unclear.
@@ -45,7 +45,7 @@ A public companion app paired with editable toolkit materials for syllabus langu
 **Domain:** AI governance  
 **Live app:** https://governance.ltecwithlance.com/  
 **Source repository:** Private  
-**Toolkit:** Practical AI Governance Toolkit
+**Toolkit:** [Practical AI Governance Toolkit](https://ltecwithlance.gumroad.com/l/practical-ai-governance-toolkit)
 
 ### Problem
 Small and mid-sized organizations need AI governance, but enterprise-scale frameworks can be difficult to operationalize at the department, college, nonprofit, government, or SMB level.
@@ -69,7 +69,7 @@ The app connects to the **Know • Own • Assess • Control • Monitor** gove
 **Domain:** Cybersecurity  
 **Live app:** https://cyber.ltecwithlance.com/  
 **Source repository:** Private  
-**Toolkit:** Cybersecurity Situational Awareness Toolkit v2.0
+**Toolkit:** [Cybersecurity Situational Awareness Toolkit v2.0](https://ltecwithlance.gumroad.com/l/cybersecurity-toolkit)
 
 ### Problem
 Traditional security awareness can emphasize remembering rules rather than practicing judgment in realistic situations.
@@ -93,7 +93,7 @@ A public learning platform paired with implementation resources for training del
 **Domain:** Cybersecurity  
 **Live app:** https://detect.ltecwithlance.com/  
 **Source repository:** Private  
-**Toolkit connection:** Companion reinforcement for the Cybersecurity Situational Awareness Toolkit v2.0
+**Toolkit connection:** Companion reinforcement for the [Cybersecurity Situational Awareness Toolkit v2.0](https://ltecwithlance.gumroad.com/l/cybersecurity-toolkit)
 
 ### Problem
 Users need short, repeatable practice for recognizing manipulation and knowing what to do when they may already have clicked, shared, paid, or exposed information.
