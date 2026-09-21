@@ -6,6 +6,8 @@ The LTECwithLance portfolio includes four implementation families that extend di
 
 **Paired app:** [Should I AI This?](https://wisecheck.ltecwithlance.com/)
 
+**Gumroad:** https://ltecwithlance.gumroad.com/l/responsible-ai-toolkit
+
 Designed for faculty and instructional teams that need practical ways to define, communicate, and verify responsible generative AI use.
 
 ### Core implementation areas
@@ -21,6 +23,8 @@ Designed for faculty and instructional teams that need practical ways to define,
 ## Practical AI Governance Toolkit
 
 **Paired app:** [AI Governance Check](https://governance.ltecwithlance.com/)
+
+**Gumroad:** https://ltecwithlance.gumroad.com/l/practical-ai-governance-toolkit
 
 A practical governance system for small and mid-sized organizations that need right-sized oversight without unnecessary complexity.
 
@@ -43,6 +47,8 @@ A practical governance system for small and mid-sized organizations that need ri
 ## Cybersecurity Situational Awareness Toolkit v2.0
 
 **Paired apps:** [Cybersecurity Situational Awareness](https://cyber.ltecwithlance.com/) and [Cybersense: Ready Now](https://detect.ltecwithlance.com/)
+
+**Gumroad:** https://ltecwithlance.gumroad.com/l/cybersecurity-toolkit
 
 A practical implementation package for judgment, protection, reporting, recovery, and continued learning.
 
@@ -104,3 +110,7 @@ The toolkits are designed around a common pattern:
 **App for engagement + toolkit for implementation + training for adoption + evidence for improvement**
 
 The goal is not simply to provide information. The goal is to help users practice a decision, document what happened, and improve the process over time.
+
+## Store
+
+Browse currently available LTECwithLance products on Gumroad: https://ltecwithlance.gumroad.com/
