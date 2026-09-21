@@ -6,7 +6,7 @@ LTECwithLance is a portfolio of practical digital products, decision-support too
 
 **Portfolio model:** Experience → Decide → Implement → Practice → Verify
 
-[Website](https://ltecwithlance.com/) • [LinkedIn](https://www.linkedin.com/in/baselinebuilder/) • [GitHub profile](https://github.com/TheWhiz13)
+[Website](https://ltecwithlance.com/) • [Gumroad store](https://ltecwithlance.gumroad.com/) • [LinkedIn](https://www.linkedin.com/in/baselinebuilder/) • [GitHub profile](https://github.com/TheWhiz13)
 
 ## Portfolio resources
 
@@ -25,7 +25,7 @@ Helps users decide whether a workplace or learning task is appropriate for gener
 
 - **Live app:** https://wisecheck.ltecwithlance.com/
 - **Source repository:** private
-- **Toolkit:** Responsible AI Toolkit for College Faculty
+- **Toolkit:** [Responsible AI Toolkit for College Faculty](https://ltecwithlance.gumroad.com/l/responsible-ai-toolkit)
 - **Focus:** task suitability, privacy, verification, accountability, human responsibility
 
 ### AI Governance Check
@@ -35,7 +35,7 @@ Helps organizations estimate how much governance attention an AI use requires an
 
 - **Live app:** https://governance.ltecwithlance.com/
 - **Source repository:** private
-- **Toolkit:** Practical AI Governance Toolkit
+- **Toolkit:** [Practical AI Governance Toolkit](https://ltecwithlance.gumroad.com/l/practical-ai-governance-toolkit)
 - **Focus:** use-case intake, risk classification, safeguards, readiness, escalation
 
 ### Cybersecurity Situational Awareness
@@ -45,7 +45,7 @@ A structured learning environment that builds real-world security judgment throu
 
 - **Live app:** https://cyber.ltecwithlance.com/
 - **Source repository:** private
-- **Toolkit:** Cybersecurity Situational Awareness Toolkit v2.0
+- **Toolkit:** [Cybersecurity Situational Awareness Toolkit v2.0](https://ltecwithlance.gumroad.com/l/cybersecurity-toolkit)
 - **Focus:** 12 security domains, Decision Lab, assessment, certificates, progress and reporting
 
 ### Cybersense: Ready Now
@@ -55,7 +55,7 @@ A short-form decision trainer that helps users recognize manipulation, identify 
 
 - **Live app:** https://detect.ltecwithlance.com/
 - **Source repository:** private
-- **Toolkit connection:** companion reinforcement for the Cybersecurity Situational Awareness Toolkit
+- **Toolkit connection:** companion reinforcement for the [Cybersecurity Situational Awareness Toolkit v2.0](https://ltecwithlance.gumroad.com/l/cybersecurity-toolkit)
 - **Focus:** scenario practice, tactic recognition, readiness feedback, Incident Coach
 
 ### Mission 20
@@ -92,11 +92,17 @@ A research system for discovering, challenging, and testing venture opportunitie
 ### Responsible AI Toolkit for College Faculty
 Editable implementation resources for syllabus language, assignment-specific AI directions, disclosure, verification, privacy, attribution, redesign, and faculty training.
 
+**Available on Gumroad:** https://ltecwithlance.gumroad.com/l/responsible-ai-toolkit
+
 ### Practical AI Governance Toolkit
 A lightweight governance system organized around **Know • Own • Assess • Control • Monitor**, with policy, RACI, risk appetite, intake, impact assessment, vendor review, monitoring, incident response, training, and framework crosswalks.
 
+**Available on Gumroad:** https://ltecwithlance.gumroad.com/l/practical-ai-governance-toolkit
+
 ### Cybersecurity Situational Awareness Toolkit v2.0
 A practical implementation package covering phishing, social engineering, identity, access, vendor risk, incidents, backups, continuity, tabletop exercises, quick references, and facilitator support.
+
+**Available on Gumroad:** https://ltecwithlance.gumroad.com/l/cybersecurity-toolkit
 
 ### Mission 20 Financial Decision-Making Toolkit
 Facilitator resources that translate Mission 20 challenges into structured learning through competencies, challenge archetypes, instructional depth, evidence, debriefing, equity and safety guidance, and multiple implementation formats.
@@ -117,5 +123,6 @@ Learning technologist • AI product builder • Instructional designer • Cybe
 LTECwithLance combines learning technology, applied AI, cybersecurity, governance, research, and human-centered design to build practical products that move users from understanding a problem to acting on it responsibly.
 
 - **Website:** https://ltecwithlance.com/
+- **Gumroad:** https://ltecwithlance.gumroad.com/
 - **LinkedIn:** https://www.linkedin.com/in/baselinebuilder/
 - **GitHub:** https://github.com/TheWhiz13
