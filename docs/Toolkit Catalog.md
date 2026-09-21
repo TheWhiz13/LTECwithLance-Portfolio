@@ -2,11 +2,18 @@
 
 The LTECwithLance portfolio includes four implementation families that extend digital products into repeatable practice.
 
+## Responsible Technology Toolkit Bundle
+
+**Gumroad:** https://ltecwithlance.gumroad.com/l/responsible-technology-bundle
+
+A bundled purchase option for LTECwithLance responsible technology resources.
+
 ## Responsible AI Toolkit for College Faculty
 
 **Paired app:** [Should I AI This?](https://wisecheck.ltecwithlance.com/)
 
-**Gumroad:** https://ltecwithlance.gumroad.com/l/responsible-ai-toolkit
+**Gumroad:** https://ltecwithlance.gumroad.com/l/responsible-ai-toolkit  
+**Bundle option:** https://ltecwithlance.gumroad.com/l/responsible-technology-bundle
 
 Designed for faculty and instructional teams that need practical ways to define, communicate, and verify responsible generative AI use.
 
@@ -24,7 +31,8 @@ Designed for faculty and instructional teams that need practical ways to define,
 
 **Paired app:** [AI Governance Check](https://governance.ltecwithlance.com/)
 
-**Gumroad:** https://ltecwithlance.gumroad.com/l/practical-ai-governance-toolkit
+**Gumroad:** https://ltecwithlance.gumroad.com/l/practical-ai-governance-toolkit  
+**Bundle option:** https://ltecwithlance.gumroad.com/l/responsible-technology-bundle
 
 A practical governance system for small and mid-sized organizations that need right-sized oversight without unnecessary complexity.
 
@@ -48,7 +56,8 @@ A practical governance system for small and mid-sized organizations that need ri
 
 **Paired apps:** [Cybersecurity Situational Awareness](https://cyber.ltecwithlance.com/) and [Cybersense: Ready Now](https://detect.ltecwithlance.com/)
 
-**Gumroad:** https://ltecwithlance.gumroad.com/l/cybersecurity-toolkit
+**Gumroad:** https://ltecwithlance.gumroad.com/l/cybersecurity-toolkit  
+**Bundle option:** https://ltecwithlance.gumroad.com/l/responsible-technology-bundle
 
 A practical implementation package for judgment, protection, reporting, recovery, and continued learning.
 
@@ -113,4 +122,5 @@ The goal is not simply to provide information. The goal is to help users practic
 
 ## Store
 
-Browse currently available LTECwithLance products on Gumroad: https://ltecwithlance.gumroad.com/
+- Browse all currently available LTECwithLance products: https://ltecwithlance.gumroad.com/
+- Responsible Technology Toolkit Bundle: https://ltecwithlance.gumroad.com/l/responsible-technology-bundle
