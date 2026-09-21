@@ -32,6 +32,8 @@ A portfolio of interactive apps, editable toolkits, and practical training resou
 
 **Toolkit connection:** Responsible AI Toolkit for College Faculty
 
+**Toolkit purchase:** https://ltecwithlance.gumroad.com/l/responsible-ai-toolkit
+
 ### AI Governance Check
 
 **URL:** https://governance.ltecwithlance.com/
@@ -43,6 +45,8 @@ A portfolio of interactive apps, editable toolkits, and practical training resou
 **Portfolio framing:** Helps organizations apply more governance only when the risk, data, authority, or consequences justify it.
 
 **Toolkit connection:** Practical AI Governance Toolkit
+
+**Toolkit purchase:** https://ltecwithlance.gumroad.com/l/practical-ai-governance-toolkit
 
 ### Cybersecurity Situational Awareness
 
@@ -56,6 +60,8 @@ A portfolio of interactive apps, editable toolkits, and practical training resou
 
 **Toolkit connection:** Cybersecurity Situational Awareness Toolkit v2.0
 
+**Toolkit purchase:** https://ltecwithlance.gumroad.com/l/cybersecurity-toolkit
+
 ### Cybersense: Ready Now
 
 **URL:** https://detect.ltecwithlance.com/
@@ -67,6 +73,8 @@ A portfolio of interactive apps, editable toolkits, and practical training resou
 **Portfolio framing:** Reinforces formal cyber training with quick, practical decision repetitions between structured sessions.
 
 **Toolkit connection:** Cybersecurity Situational Awareness Toolkit v2.0 companion
+
+**Toolkit purchase:** https://ltecwithlance.gumroad.com/l/cybersecurity-toolkit
 
 ### Mission 20
 
@@ -119,5 +127,7 @@ The current portfolio includes **Should I AI This?**, **AI Governance Check**, *
 The common thread is human judgment. Each product gives people a concrete decision to make, then supports reflection, documentation, practice, or improvement.
 
 Portfolio: https://github.com/TheWhiz13/LTECwithLance-Portfolio
+
+Toolkit store: https://ltecwithlance.gumroad.com/
 
 Website: https://ltecwithlance.com/
