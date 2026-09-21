@@ -12,7 +12,6 @@ LTECwithLance is a portfolio of practical digital products, decision-support too
 
 - [Product case studies](./docs/Product%20Case%20Studies.md)
 - [Toolkit catalog](./docs/Toolkit%20Catalog.md)
-- [LinkedIn profile and project copy](./docs/LinkedIn%20Profile%20and%20Project%20Copy.md)
 
 > The product source repositories are currently private. This public portfolio documents the products, live experiences, design logic, toolkit connections, and implementation model without exposing private application code.
 
