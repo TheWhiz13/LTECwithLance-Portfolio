@@ -1,4 +1,4 @@
-# LTECwithLance product portfolio
+# LTECwithLance Portfolio
 
 **Applied AI • Learning technology • Cybersecurity • Digital trust**
 
@@ -10,11 +10,9 @@ LTECwithLance is a portfolio of practical digital products, decision-support too
 
 ## Portfolio resources
 
-- [Product portfolio brief](./00%20LTECwithLance%20Product%20Portfolio%20Brief.pdf)
-- [Product case studies](./01%20LTECwithLance%20Product%20Case%20Studies.pdf)
-- [LinkedIn portfolio carousel](./02%20LTECwithLance%20LinkedIn%20Portfolio%20Carousel.pdf)
-- [Detailed product case studies](./docs/Product%20Case%20Studies.md)
+- [Product case studies](./docs/Product%20Case%20Studies.md)
 - [Toolkit catalog](./docs/Toolkit%20Catalog.md)
+- [LinkedIn profile and project copy](./docs/LinkedIn%20Profile%20and%20Project%20Copy.md)
 
 ## Product portfolio
 
