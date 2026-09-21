@@ -14,6 +14,8 @@ LTECwithLance is a portfolio of practical digital products, decision-support too
 - [Toolkit catalog](./docs/Toolkit%20Catalog.md)
 - [LinkedIn profile and project copy](./docs/LinkedIn%20Profile%20and%20Project%20Copy.md)
 
+> The product source repositories are currently private. This public portfolio documents the products, live experiences, design logic, toolkit connections, and implementation model without exposing private application code.
+
 ## Product portfolio
 
 ### Should I AI This?
@@ -22,7 +24,7 @@ LTECwithLance is a portfolio of practical digital products, decision-support too
 Helps users decide whether a workplace or learning task is appropriate for generative AI before they paste, prompt, or upload sensitive information.
 
 - **Live app:** https://wisecheck.ltecwithlance.com/
-- **Repository:** https://github.com/TheWhiz13/should-i-ai-this
+- **Source repository:** private
 - **Toolkit:** Responsible AI Toolkit for College Faculty
 - **Focus:** task suitability, privacy, verification, accountability, human responsibility
 
@@ -32,7 +34,7 @@ Helps users decide whether a workplace or learning task is appropriate for gener
 Helps organizations estimate how much governance attention an AI use requires and route it to proportionate controls.
 
 - **Live app:** https://governance.ltecwithlance.com/
-- **Repository:** https://github.com/TheWhiz13/ai-governance-check
+- **Source repository:** private
 - **Toolkit:** Practical AI Governance Toolkit
 - **Focus:** use-case intake, risk classification, safeguards, readiness, escalation
 
@@ -42,7 +44,7 @@ Helps organizations estimate how much governance attention an AI use requires an
 A structured learning environment that builds real-world security judgment through realistic scenarios, evidence review, decision practice, assessment, and completion tracking.
 
 - **Live app:** https://cyber.ltecwithlance.com/
-- **Repository:** https://github.com/TheWhiz13/cybersecurity-situational-awareness
+- **Source repository:** private
 - **Toolkit:** Cybersecurity Situational Awareness Toolkit v2.0
 - **Focus:** 12 security domains, Decision Lab, assessment, certificates, progress and reporting
 
@@ -52,7 +54,7 @@ A structured learning environment that builds real-world security judgment throu
 A short-form decision trainer that helps users recognize manipulation, identify warning signs, choose safer responses, and recover when something may already have gone wrong.
 
 - **Live app:** https://detect.ltecwithlance.com/
-- **Repository:** https://github.com/TheWhiz13/cybersense-ready-now
+- **Source repository:** private
 - **Toolkit connection:** companion reinforcement for the Cybersecurity Situational Awareness Toolkit
 - **Focus:** scenario practice, tactic recognition, readiness feedback, Incident Coach
 
@@ -62,7 +64,7 @@ A short-form decision trainer that helps users recognize manipulation, identify 
 A social challenge experience built around a fixed $20 constraint. The design makes priorities, tradeoffs, value judgments, resourcefulness, and strategy visible.
 
 - **Live app:** https://mission20.ltecwithlance.com/
-- **Repository:** https://github.com/TheWhiz13/Mission-20
+- **Source repository:** private
 - **Toolkit:** Mission 20 Financial Decision-Making Toolkit
 - **Focus:** resource allocation, opportunity cost, value assessment, decision-making under constraints, reflection
 
@@ -72,7 +74,7 @@ A social challenge experience built around a fixed $20 constraint. The design ma
 A seven-day branching narrative in which the player becomes the final Custodian of a failing digital archive and must decide what parts of humanity can still be preserved.
 
 - **Live app:** https://archive.ltecwithlance.com/
-- **Repository:** https://github.com/TheWhiz13/the-last-archive
+- **Source repository:** private
 - **Product type:** standalone experiential product
 - **Focus:** scarcity, competing values, irreversible choices, AI council perspectives, reflective endings
 
@@ -81,7 +83,7 @@ A seven-day branching narrative in which the player becomes the final Custodian 
 
 A research system for discovering, challenging, and testing venture opportunities while preserving evidence lineage, auditability, and explicit human approval boundaries.
 
-- **Repository:** https://github.com/TheWhiz13/LTEC-Venture-Scientist
+- **Source repository:** private
 - **Product type:** controlled R&D platform
 - **Focus:** opportunity research, falsification, economics, risk, experiment design, evidence provenance, human approval
 
