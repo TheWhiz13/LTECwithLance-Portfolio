@@ -1,2 +1,121 @@
-# LTECwithLance-Portfolio
-Applied AI, learning technology, cybersecurity, digital trust, and experiential learning products from LTECwithLance.
+# LTECwithLance product portfolio
+
+**Applied AI • Learning technology • Cybersecurity • Digital trust**
+
+LTECwithLance is a portfolio of practical digital products, decision-support tools, learning experiences, and implementation resources designed to make judgment visible, teachable, and repeatable.
+
+**Portfolio model:** Experience → Decide → Implement → Practice → Verify
+
+[Website](https://ltecwithlance.com/) • [LinkedIn](https://www.linkedin.com/in/baselinebuilder/) • [GitHub profile](https://github.com/TheWhiz13)
+
+## Portfolio resources
+
+- [Product portfolio brief](./00%20LTECwithLance%20Product%20Portfolio%20Brief.pdf)
+- [Product case studies](./01%20LTECwithLance%20Product%20Case%20Studies.pdf)
+- [LinkedIn portfolio carousel](./02%20LTECwithLance%20LinkedIn%20Portfolio%20Carousel.pdf)
+- [Detailed product case studies](./docs/Product%20Case%20Studies.md)
+- [Toolkit catalog](./docs/Toolkit%20Catalog.md)
+
+## Product portfolio
+
+### Should I AI This?
+**Responsible AI decision support**
+
+Helps users decide whether a workplace or learning task is appropriate for generative AI before they paste, prompt, or upload sensitive information.
+
+- **Live app:** https://wisecheck.ltecwithlance.com/
+- **Repository:** https://github.com/TheWhiz13/should-i-ai-this
+- **Toolkit:** Responsible AI Toolkit for College Faculty
+- **Focus:** task suitability, privacy, verification, accountability, human responsibility
+
+### AI Governance Check
+**Practical AI risk routing and governance readiness**
+
+Helps organizations estimate how much governance attention an AI use requires and route it to proportionate controls.
+
+- **Live app:** https://governance.ltecwithlance.com/
+- **Repository:** https://github.com/TheWhiz13/ai-governance-check
+- **Toolkit:** Practical AI Governance Toolkit
+- **Focus:** use-case intake, risk classification, safeguards, readiness, escalation
+
+### Cybersecurity Situational Awareness
+**Scenario-based cybersecurity learning platform**
+
+A structured learning environment that builds real-world security judgment through realistic scenarios, evidence review, decision practice, assessment, and completion tracking.
+
+- **Live app:** https://cyber.ltecwithlance.com/
+- **Repository:** https://github.com/TheWhiz13/cybersecurity-situational-awareness
+- **Toolkit:** Cybersecurity Situational Awareness Toolkit v2.0
+- **Focus:** 12 security domains, Decision Lab, assessment, certificates, progress and reporting
+
+### Cybersense: Ready Now
+**Rapid cybersecurity scenario practice and recovery guidance**
+
+A short-form decision trainer that helps users recognize manipulation, identify warning signs, choose safer responses, and recover when something may already have gone wrong.
+
+- **Live app:** https://detect.ltecwithlance.com/
+- **Repository:** https://github.com/TheWhiz13/cybersense-ready-now
+- **Toolkit connection:** companion reinforcement for the Cybersecurity Situational Awareness Toolkit
+- **Focus:** scenario practice, tactic recognition, readiness feedback, Incident Coach
+
+### Mission 20
+**Experiential financial decision-making and creativity under constraint**
+
+A social challenge experience built around a fixed $20 constraint. The design makes priorities, tradeoffs, value judgments, resourcefulness, and strategy visible.
+
+- **Live app:** https://mission20.ltecwithlance.com/
+- **Repository:** https://github.com/TheWhiz13/Mission-20
+- **Toolkit:** Mission 20 Financial Decision-Making Toolkit
+- **Focus:** resource allocation, opportunity cost, value assessment, decision-making under constraints, reflection
+
+### The Last Archive
+**Interactive narrative strategy experience**
+
+A seven-day branching narrative in which the player becomes the final Custodian of a failing digital archive and must decide what parts of humanity can still be preserved.
+
+- **Live app:** https://archive.ltecwithlance.com/
+- **Repository:** https://github.com/TheWhiz13/the-last-archive
+- **Product type:** standalone experiential product
+- **Focus:** scarcity, competing values, irreversible choices, AI council perspectives, reflective endings
+
+### LTEC Venture Scientist
+**Controlled opportunity discovery and venture research**
+
+A research system for discovering, challenging, and testing venture opportunities while preserving evidence lineage, auditability, and explicit human approval boundaries.
+
+- **Repository:** https://github.com/TheWhiz13/LTEC-Venture-Scientist
+- **Product type:** controlled R&D platform
+- **Focus:** opportunity research, falsification, economics, risk, experiment design, evidence provenance, human approval
+
+## Toolkit families
+
+### Responsible AI Toolkit for College Faculty
+Editable implementation resources for syllabus language, assignment-specific AI directions, disclosure, verification, privacy, attribution, redesign, and faculty training.
+
+### Practical AI Governance Toolkit
+A lightweight governance system organized around **Know • Own • Assess • Control • Monitor**, with policy, RACI, risk appetite, intake, impact assessment, vendor review, monitoring, incident response, training, and framework crosswalks.
+
+### Cybersecurity Situational Awareness Toolkit v2.0
+A practical implementation package covering phishing, social engineering, identity, access, vendor risk, incidents, backups, continuity, tabletop exercises, quick references, and facilitator support.
+
+### Mission 20 Financial Decision-Making Toolkit
+Facilitator resources that translate Mission 20 challenges into structured learning through competencies, challenge archetypes, instructional depth, evidence, debriefing, equity and safety guidance, and multiple implementation formats.
+
+## Design philosophy
+
+The strongest LTEC products are not simply apps or toolkits. They combine:
+
+**App for engagement + toolkit for implementation + training for adoption + evidence for improvement**
+
+Technology should support human judgment, learning, performance, security, and responsible innovation.
+
+## About the builder
+
+**Michael Lance Whisenant, PhD**  
+Learning technologist • AI product builder • Instructional designer • Cybersecurity practitioner
+
+LTECwithLance combines learning technology, applied AI, cybersecurity, governance, research, and human-centered design to build practical products that move users from understanding a problem to acting on it responsibly.
+
+- **Website:** https://ltecwithlance.com/
+- **LinkedIn:** https://www.linkedin.com/in/baselinebuilder/
+- **GitHub:** https://github.com/TheWhiz13
