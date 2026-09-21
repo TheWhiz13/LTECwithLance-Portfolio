@@ -16,6 +16,8 @@ A portfolio of interactive apps, editable toolkits, and practical training resou
 
 **Project URL:** https://github.com/TheWhiz13/LTECwithLance-Portfolio
 
+**Toolkit bundle:** https://ltecwithlance.gumroad.com/l/responsible-technology-bundle
+
 **Description:** Designed and developed an integrated portfolio of decision-support apps, cybersecurity learning tools, experiential learning products, and implementation toolkits. The ecosystem pairs lightweight web apps with editable resources, training pathways, and evidence-centered workflows so users can move from understanding a problem to acting on it responsibly. Product areas include responsible AI, AI governance, cybersecurity situational awareness, scenario practice, financial decision-making, narrative strategy, and controlled venture research.
 
 ## Individual project entries
@@ -34,6 +36,8 @@ A portfolio of interactive apps, editable toolkits, and practical training resou
 
 **Toolkit purchase:** https://ltecwithlance.gumroad.com/l/responsible-ai-toolkit
 
+**Bundle option:** https://ltecwithlance.gumroad.com/l/responsible-technology-bundle
+
 ### AI Governance Check
 
 **URL:** https://governance.ltecwithlance.com/
@@ -47,6 +51,8 @@ A portfolio of interactive apps, editable toolkits, and practical training resou
 **Toolkit connection:** Practical AI Governance Toolkit
 
 **Toolkit purchase:** https://ltecwithlance.gumroad.com/l/practical-ai-governance-toolkit
+
+**Bundle option:** https://ltecwithlance.gumroad.com/l/responsible-technology-bundle
 
 ### Cybersecurity Situational Awareness
 
@@ -62,6 +68,8 @@ A portfolio of interactive apps, editable toolkits, and practical training resou
 
 **Toolkit purchase:** https://ltecwithlance.gumroad.com/l/cybersecurity-toolkit
 
+**Bundle option:** https://ltecwithlance.gumroad.com/l/responsible-technology-bundle
+
 ### Cybersense: Ready Now
 
 **URL:** https://detect.ltecwithlance.com/
@@ -75,6 +83,8 @@ A portfolio of interactive apps, editable toolkits, and practical training resou
 **Toolkit connection:** Cybersecurity Situational Awareness Toolkit v2.0 companion
 
 **Toolkit purchase:** https://ltecwithlance.gumroad.com/l/cybersecurity-toolkit
+
+**Bundle option:** https://ltecwithlance.gumroad.com/l/responsible-technology-bundle
 
 ### Mission 20
 
@@ -127,6 +137,8 @@ The current portfolio includes **Should I AI This?**, **AI Governance Check**, *
 The common thread is human judgment. Each product gives people a concrete decision to make, then supports reflection, documentation, practice, or improvement.
 
 Portfolio: https://github.com/TheWhiz13/LTECwithLance-Portfolio
+
+Responsible Technology Toolkit Bundle: https://ltecwithlance.gumroad.com/l/responsible-technology-bundle
 
 Toolkit store: https://ltecwithlance.gumroad.com/
 
