@@ -6,7 +6,7 @@ LTECwithLance is a portfolio of practical digital products, decision-support too
 
 **Portfolio model:** Experience → Decide → Implement → Practice → Verify
 
-[Website](https://ltecwithlance.com/) • [Gumroad store](https://ltecwithlance.gumroad.com/) • [LinkedIn](https://www.linkedin.com/in/baselinebuilder/) • [GitHub profile](https://github.com/TheWhiz13)
+[Website](https://ltecwithlance.com/) • [Gumroad store](https://ltecwithlance.gumroad.com/) • [Responsible Technology Toolkit Bundle](https://ltecwithlance.gumroad.com/l/responsible-technology-bundle) • [LinkedIn](https://www.linkedin.com/in/baselinebuilder/) • [GitHub profile](https://github.com/TheWhiz13)
 
 ## Portfolio resources
 
@@ -89,20 +89,28 @@ A research system for discovering, challenging, and testing venture opportunitie
 
 ## Toolkit families
 
+### Responsible Technology Toolkit Bundle
+A bundled purchase option for LTECwithLance responsible technology resources.
+
+**Bundle on Gumroad:** https://ltecwithlance.gumroad.com/l/responsible-technology-bundle
+
 ### Responsible AI Toolkit for College Faculty
 Editable implementation resources for syllabus language, assignment-specific AI directions, disclosure, verification, privacy, attribution, redesign, and faculty training.
 
-**Available on Gumroad:** https://ltecwithlance.gumroad.com/l/responsible-ai-toolkit
+**Available on Gumroad:** https://ltecwithlance.gumroad.com/l/responsible-ai-toolkit  
+**Bundle option:** https://ltecwithlance.gumroad.com/l/responsible-technology-bundle
 
 ### Practical AI Governance Toolkit
 A lightweight governance system organized around **Know • Own • Assess • Control • Monitor**, with policy, RACI, risk appetite, intake, impact assessment, vendor review, monitoring, incident response, training, and framework crosswalks.
 
-**Available on Gumroad:** https://ltecwithlance.gumroad.com/l/practical-ai-governance-toolkit
+**Available on Gumroad:** https://ltecwithlance.gumroad.com/l/practical-ai-governance-toolkit  
+**Bundle option:** https://ltecwithlance.gumroad.com/l/responsible-technology-bundle
 
 ### Cybersecurity Situational Awareness Toolkit v2.0
 A practical implementation package covering phishing, social engineering, identity, access, vendor risk, incidents, backups, continuity, tabletop exercises, quick references, and facilitator support.
 
-**Available on Gumroad:** https://ltecwithlance.gumroad.com/l/cybersecurity-toolkit
+**Available on Gumroad:** https://ltecwithlance.gumroad.com/l/cybersecurity-toolkit  
+**Bundle option:** https://ltecwithlance.gumroad.com/l/responsible-technology-bundle
 
 ### Mission 20 Financial Decision-Making Toolkit
 Facilitator resources that translate Mission 20 challenges into structured learning through competencies, challenge archetypes, instructional depth, evidence, debriefing, equity and safety guidance, and multiple implementation formats.
@@ -124,5 +132,6 @@ LTECwithLance combines learning technology, applied AI, cybersecurity, governanc
 
 - **Website:** https://ltecwithlance.com/
 - **Gumroad:** https://ltecwithlance.gumroad.com/
+- **Responsible Technology Toolkit Bundle:** https://ltecwithlance.gumroad.com/l/responsible-technology-bundle
 - **LinkedIn:** https://www.linkedin.com/in/baselinebuilder/
 - **GitHub:** https://github.com/TheWhiz13
