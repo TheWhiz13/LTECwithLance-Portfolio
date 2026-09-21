@@ -14,6 +14,8 @@ A portfolio of interactive apps, editable toolkits, and practical training resou
 
 **Associated with:** LTECwithLance
 
+**Project URL:** https://github.com/TheWhiz13/LTECwithLance-Portfolio
+
 **Description:** Designed and developed an integrated portfolio of decision-support apps, cybersecurity learning tools, experiential learning products, and implementation toolkits. The ecosystem pairs lightweight web apps with editable resources, training pathways, and evidence-centered workflows so users can move from understanding a problem to acting on it responsibly. Product areas include responsible AI, AI governance, cybersecurity situational awareness, scenario practice, financial decision-making, narrative strategy, and controlled venture research.
 
 ## Individual project entries
@@ -22,7 +24,7 @@ A portfolio of interactive apps, editable toolkits, and practical training resou
 
 **URL:** https://wisecheck.ltecwithlance.com/
 
-**Repository:** https://github.com/TheWhiz13/should-i-ai-this
+**Source repository:** Private
 
 **Short description:** AI-use suitability and responsible-use guidance before a person pastes, prompts, or uploads.
 
@@ -34,7 +36,7 @@ A portfolio of interactive apps, editable toolkits, and practical training resou
 
 **URL:** https://governance.ltecwithlance.com/
 
-**Repository:** https://github.com/TheWhiz13/ai-governance-check
+**Source repository:** Private
 
 **Short description:** Risk routing and governance readiness for proposed AI uses.
 
@@ -46,7 +48,7 @@ A portfolio of interactive apps, editable toolkits, and practical training resou
 
 **URL:** https://cyber.ltecwithlance.com/
 
-**Repository:** https://github.com/TheWhiz13/cybersecurity-situational-awareness
+**Source repository:** Private
 
 **Short description:** Structured cybersecurity learning, assessment, certificates, and administrator visibility.
 
@@ -58,7 +60,7 @@ A portfolio of interactive apps, editable toolkits, and practical training resou
 
 **URL:** https://detect.ltecwithlance.com/
 
-**Repository:** https://github.com/TheWhiz13/cybersense-ready-now
+**Source repository:** Private
 
 **Short description:** Short cybersecurity scenario practice, tactic recognition, readiness feedback, and recovery guidance.
 
@@ -70,7 +72,7 @@ A portfolio of interactive apps, editable toolkits, and practical training resou
 
 **URL:** https://mission20.ltecwithlance.com/
 
-**Repository:** https://github.com/TheWhiz13/Mission-20
+**Source repository:** Private
 
 **Short description:** Creative $20 constraint challenges for decision-making, value reasoning, resourcefulness, and reflection.
 
@@ -82,7 +84,7 @@ A portfolio of interactive apps, editable toolkits, and practical training resou
 
 **URL:** https://archive.ltecwithlance.com/
 
-**Repository:** https://github.com/TheWhiz13/the-last-archive
+**Source repository:** Private
 
 **Short description:** Interactive narrative strategy experience about scarcity, values, and what gets preserved.
 
@@ -92,9 +94,9 @@ A portfolio of interactive apps, editable toolkits, and practical training resou
 
 ### LTEC Venture Scientist
 
-**URL:** https://github.com/TheWhiz13/LTEC-Venture-Scientist
+**URL:** https://github.com/TheWhiz13/LTECwithLance-Portfolio
 
-**Repository:** https://github.com/TheWhiz13/LTEC-Venture-Scientist
+**Source repository:** Private
 
 **Short description:** Controlled opportunity research, falsification, evidence review, and proposed experiments for human approval.
 
