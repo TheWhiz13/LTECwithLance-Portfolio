@@ -8,15 +8,37 @@ LTECwithLance is a portfolio of practical digital products, decision-support too
 
 [Website](https://ltecwithlance.com/) • [Gumroad store](https://ltecwithlance.gumroad.com/) • [Responsible Technology Toolkit Bundle](https://ltecwithlance.gumroad.com/l/responsible-technology-bundle) • [LinkedIn](https://www.linkedin.com/in/baselinebuilder/) • [GitHub profile](https://github.com/TheWhiz13)
 
-## Now on the Apple App Store
+---
 
-**[Cyber Situational Awareness](https://apps.apple.com/us/app/cyber-situational-awareness/id6797919717)** is now available for **$1.99** from LTEC with Lance LLC.
+## Featured iOS release
+
+### Cyber Situational Awareness
+
+[![Available on the App Store](https://img.shields.io/badge/Apple%20App%20Store-Available%20Now-000000?logo=apple&logoColor=white)](https://apps.apple.com/us/app/cyber-situational-awareness/id6797919717)
+![TXCC State Certified](https://img.shields.io/badge/TXCC%20State%20Certified-2026%E2%80%932027-0A7E8C)
+![iOS Price](https://img.shields.io/badge/iOS-%241.99-555555)
+
+**A scenario-based cybersecurity learning app from LTEC with Lance LLC, now available on the Apple App Store.**
+
+Cyber Situational Awareness is designed to build practical security judgment through realistic scenarios, evidence review, decision practice, assessment, and feedback. Users examine suspicious emails, fake websites, QR codes, voice calls, identity and access risks, vendor threats, and other common attack patterns, then decide how to respond safely.
 
 **2026–2027 State Certified Cybersecurity Training Program by the Texas Cyber Command (TXCC).**
 
-Practice recognizing digital threats through interactive scenarios and a Situational Awareness Decision Lab. Examine suspicious emails, fake websites, QR codes, voice calls, and more; analyze the evidence, choose a response, and receive feedback on warning signs and safer actions.
+**What the app includes**
 
-[**Download on the App Store**](https://apps.apple.com/us/app/cyber-situational-awareness/id6797919717)
+- Scenario-based cybersecurity learning across 12 security domains
+- Situational Awareness Decision Lab for evidence-based practice
+- Applied threat recognition and response decisions
+- Assessment, progress tracking, and completion support
+- Practical guidance designed to transfer from training into real-world behavior
+
+| Experience | Link |
+| --- | --- |
+| **Apple App Store** | [Download Cyber Situational Awareness](https://apps.apple.com/us/app/cyber-situational-awareness/id6797919717) |
+| **Web experience** | [cyber.ltecwithlance.com](https://cyber.ltecwithlance.com/) |
+| **Companion toolkit** | [Cybersecurity Situational Awareness Toolkit v2.0](https://ltecwithlance.gumroad.com/l/cybersecurity-toolkit) |
+
+---
 
 ## Portfolio resources
 
@@ -26,6 +48,18 @@ Practice recognizing digital threats through interactive scenarios and a Situati
 > The product source repositories are currently private. This public portfolio documents the products, live experiences, design logic, toolkit connections, and implementation model without exposing private application code.
 
 ## Product portfolio
+
+### Cybersecurity Situational Awareness
+**Scenario-based cybersecurity learning platform**
+
+A structured learning environment that builds real-world security judgment through realistic scenarios, evidence review, decision practice, assessment, and completion tracking.
+
+- **iOS app:** [Cyber Situational Awareness on the App Store](https://apps.apple.com/us/app/cyber-situational-awareness/id6797919717) · $1.99
+- **Live app:** https://cyber.ltecwithlance.com/
+- **Certification:** 2026–2027 State Certified Cybersecurity Training Program by the Texas Cyber Command (TXCC)
+- **Source repository:** private
+- **Toolkit:** [Cybersecurity Situational Awareness Toolkit v2.0](https://ltecwithlance.gumroad.com/l/cybersecurity-toolkit)
+- **Focus:** 12 security domains, Decision Lab, assessment, certificates, progress and reporting
 
 ### Should I AI This?
 **Responsible AI decision support**
@@ -46,18 +80,6 @@ Helps organizations estimate how much governance attention an AI use requires an
 - **Source repository:** private
 - **Toolkit:** [Practical AI Governance Toolkit](https://ltecwithlance.gumroad.com/l/practical-ai-governance-toolkit)
 - **Focus:** use-case intake, risk classification, safeguards, readiness, escalation
-
-### Cybersecurity Situational Awareness
-**Scenario-based cybersecurity learning platform**
-
-A structured learning environment that builds real-world security judgment through realistic scenarios, evidence review, decision practice, assessment, and completion tracking.
-
-- **Live app:** https://cyber.ltecwithlance.com/
-- **iOS app:** [Cyber Situational Awareness on the App Store](https://apps.apple.com/us/app/cyber-situational-awareness/id6797919717) · $1.99
-- **Certification:** 2026–2027 State Certified Cybersecurity Training Program by the Texas Cyber Command (TXCC)
-- **Source repository:** private
-- **Toolkit:** [Cybersecurity Situational Awareness Toolkit v2.0](https://ltecwithlance.gumroad.com/l/cybersecurity-toolkit)
-- **Focus:** 12 security domains, Decision Lab, assessment, certificates, progress and reporting
 
 ### Cybersense: Ready Now
 **Rapid cybersecurity scenario practice and recovery guidance**
