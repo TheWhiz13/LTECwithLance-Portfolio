@@ -8,6 +8,16 @@ LTECwithLance is a portfolio of practical digital products, decision-support too
 
 [Website](https://ltecwithlance.com/) • [Gumroad store](https://ltecwithlance.gumroad.com/) • [Responsible Technology Toolkit Bundle](https://ltecwithlance.gumroad.com/l/responsible-technology-bundle) • [LinkedIn](https://www.linkedin.com/in/baselinebuilder/) • [GitHub profile](https://github.com/TheWhiz13)
 
+## Now on the Apple App Store
+
+**[Cyber Situational Awareness](https://apps.apple.com/us/app/cyber-situational-awareness/id6797919717)** is now available for **$1.99** from LTEC with Lance LLC.
+
+**2026–2027 State Certified Cybersecurity Training Program by the Texas Cyber Command (TXCC).**
+
+Practice recognizing digital threats through interactive scenarios and a Situational Awareness Decision Lab. Examine suspicious emails, fake websites, QR codes, voice calls, and more; analyze the evidence, choose a response, and receive feedback on warning signs and safer actions.
+
+[**Download on the App Store**](https://apps.apple.com/us/app/cyber-situational-awareness/id6797919717)
+
 ## Portfolio resources
 
 - [Product case studies](./docs/Product%20Case%20Studies.md)
@@ -43,6 +53,8 @@ Helps organizations estimate how much governance attention an AI use requires an
 A structured learning environment that builds real-world security judgment through realistic scenarios, evidence review, decision practice, assessment, and completion tracking.
 
 - **Live app:** https://cyber.ltecwithlance.com/
+- **iOS app:** [Cyber Situational Awareness on the App Store](https://apps.apple.com/us/app/cyber-situational-awareness/id6797919717) · $1.99
+- **Certification:** 2026–2027 State Certified Cybersecurity Training Program by the Texas Cyber Command (TXCC)
 - **Source repository:** private
 - **Toolkit:** [Cybersecurity Situational Awareness Toolkit v2.0](https://ltecwithlance.gumroad.com/l/cybersecurity-toolkit)
 - **Focus:** 12 security domains, Decision Lab, assessment, certificates, progress and reporting
