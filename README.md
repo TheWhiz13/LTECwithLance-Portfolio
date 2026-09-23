@@ -10,21 +10,23 @@ LTECwithLance is a portfolio of practical digital products, decision-support too
 
 ---
 
-## Featured iOS release
-
-### Cyber Situational Awareness
+# Featured release: Cyber Situational Awareness for iOS
 
 [![Available on the App Store](https://img.shields.io/badge/Apple%20App%20Store-Available%20Now-000000?logo=apple&logoColor=white)](https://apps.apple.com/us/app/cyber-situational-awareness/id6797919717)
 ![TXCC State Certified](https://img.shields.io/badge/TXCC%20State%20Certified-2026%E2%80%932027-0A7E8C)
 ![iOS Price](https://img.shields.io/badge/iOS-%241.99-555555)
 
-**A scenario-based cybersecurity learning app from LTEC with Lance LLC, now available on the Apple App Store.**
+## Now available on the Apple App Store
 
-Cyber Situational Awareness is designed to build practical security judgment through realistic scenarios, evidence review, decision practice, assessment, and feedback. Users examine suspicious emails, fake websites, QR codes, voice calls, identity and access risks, vendor threats, and other common attack patterns, then decide how to respond safely.
+**Cyber Situational Awareness** is the iOS release of the Cybersecurity Situational Awareness learning experience from **LTEC with Lance LLC**.
 
-**2026–2027 State Certified Cybersecurity Training Program by the Texas Cyber Command (TXCC).**
+It is designed to build practical cybersecurity judgment through realistic scenarios, evidence review, decision practice, assessment, and feedback. Users examine suspicious emails, fake websites, QR codes, voice calls, identity and access risks, vendor threats, and other common attack patterns, then decide how to respond safely.
 
-**What the app includes**
+### State-certified training
+
+**This program is a 2026–2027 State Certified Cybersecurity Training Program by the Texas Cyber Command (TXCC).**
+
+### What the app includes
 
 - Scenario-based cybersecurity learning across 12 security domains
 - Situational Awareness Decision Lab for evidence-based practice
@@ -32,11 +34,15 @@ Cyber Situational Awareness is designed to build practical security judgment thr
 - Assessment, progress tracking, and completion support
 - Practical guidance designed to transfer from training into real-world behavior
 
+### Explore the release
+
 | Experience | Link |
 | --- | --- |
-| **Apple App Store** | [Download Cyber Situational Awareness](https://apps.apple.com/us/app/cyber-situational-awareness/id6797919717) |
+| **Apple App Store** | [Get Cyber Situational Awareness for iPhone and iPad](https://apps.apple.com/us/app/cyber-situational-awareness/id6797919717) |
 | **Web experience** | [cyber.ltecwithlance.com](https://cyber.ltecwithlance.com/) |
 | **Companion toolkit** | [Cybersecurity Situational Awareness Toolkit v2.0](https://ltecwithlance.gumroad.com/l/cybersecurity-toolkit) |
+
+> The application source repository remains private. This public portfolio documents the product, learning design, implementation resources, and live experiences without exposing private application code.
 
 ---
 
@@ -44,8 +50,6 @@ Cyber Situational Awareness is designed to build practical security judgment thr
 
 - [Product case studies](./docs/Product%20Case%20Studies.md)
 - [Toolkit catalog](./docs/Toolkit%20Catalog.md)
-
-> The product source repositories are currently private. This public portfolio documents the products, live experiences, design logic, toolkit connections, and implementation model without exposing private application code.
 
 ## Product portfolio
 
